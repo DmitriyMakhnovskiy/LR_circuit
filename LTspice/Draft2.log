@@ -1,0 +1,21 @@
+Circuit: * E:\Dropbox\Dima\Teaching courses and tutorials\Plymouth City College\1078\Coursework\Draft2.asc
+
+.OP point found by inspection.
+
+Date: Tue Apr 09 14:59:35 2024
+Total elapsed time: 1.920 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2144
+traniter = 2144
+tranpoints = 1073
+accept = 1071
+rejected = 2
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1: 214 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 401 bytes object code size  0.1/0.1/[0.1]
+
