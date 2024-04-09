@@ -1,0 +1,21 @@
+Circuit: * E:\Dropbox\Dima\Teaching courses and tutorials\Plymouth City College\1078\Coursework\LR_circuit\LTspice\1-phase_Compensation_Capacitor.asc
+
+.OP point found by inspection.
+
+Date: Tue Apr 09 16:48:57 2024
+Total elapsed time: 0.730 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2144
+traniter = 2144
+tranpoints = 1073
+accept = 1071
+rejected = 2
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1: 214 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 401 bytes object code size  0.1/0.1/[0.1]
+
