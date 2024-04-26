@@ -11,7 +11,8 @@ import math
 R = 80  # Resistance (in ohms)
 L = 8e-2  # Inductance (in henries)
 f = 100  # Frequency (in Hz)
-omega = 200 * math.pi  # Angular frequency (in rad/s)
+
+omega = 2.0 * f * math.pi  # Angular frequency (in rad/s)
 
 # Calculate impedance
 Z = complex(R, omega * L)
